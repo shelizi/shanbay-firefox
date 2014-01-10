@@ -1,0 +1,9 @@
+{
+  "name": "shanbay-firefox",
+  "title": "shanbay-firefox",
+  "id": "jid1-9LAdWeFM0SfrTg",
+  "description": "shanbay firefox add-on base on shanbay chrome add-on",
+  "author": "Cheng-Han Hsieh",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
